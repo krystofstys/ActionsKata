@@ -6,6 +6,6 @@ jobs:
 	welcome:
 		runs-on: ubuntu-latest
         
-    steps:
-        - name: Hello message
-          run: echo "Whatsup"
+        steps:
+            - name: Hello message
+              run: echo "Whatsup"
