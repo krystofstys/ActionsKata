@@ -9,6 +9,4 @@ jobs:
         steps:
             - name: Hello message
               run: echo "Whatsup"
-              
-    build:
-        
+  
