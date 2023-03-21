@@ -41,5 +41,5 @@ jobs:
         
         steps:
             - name: publish
-              run: echo "I published it, really, trust me bro."
+              run: dotnet publish --no-build
             
