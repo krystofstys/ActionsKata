@@ -41,5 +41,5 @@ jobs:
         
         steps:
             - name: publish
-              run: dotnet publish --no-build
+              run: dotnet publish
             
